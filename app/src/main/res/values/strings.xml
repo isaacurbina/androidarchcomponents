@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidarchcomponents</string>
+    <string name="common_greeting">Common Greeting</string>
+    <string name="special_greeting">Special Greeting</string>
+</resources>
